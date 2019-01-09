@@ -1,0 +1,20 @@
+{
+  "secret": "c8aec3e7-09c3-49a3-87f3-dbef56959d48",
+  "pipes": [
+    "isEven",
+    "accumulator"
+  ],
+  "sequencers": [
+    "primeSeq",
+    "rangeSeq",
+    "factorialSeq",
+    "fibonacciSeq",
+    "partialSumSeq"
+  ],
+  "users": [
+    {
+      "username": "test",
+      "password": "test"
+    }
+  ]
+}
